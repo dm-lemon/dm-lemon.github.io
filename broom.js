@@ -13,10 +13,10 @@ while (start == true){
 }
 
 function update(presskey){
-    if (presskey == "KEY_BACKSLASH" && start == false){
+    if (presskey == 43 && start == false){
         start = true;
     }
-    elif (presskey == "KEY_BACKSLASH" && start == true){
+    elif (presskey == 43 && start == true){
         start = false;
     }
 }
