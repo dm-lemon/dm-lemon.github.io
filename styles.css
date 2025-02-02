@@ -8,6 +8,12 @@ h1{
 }
 
 .pfp{
-  border-radius: 50px;
+  border-radius: 127px;
   transition: transform 0.3s ease;
+  transition: border-radius 0.3s ease;
+}
+
+.pfp:hover{
+  transform: scale(1.2);
+  border-radius: 50px;
 }
