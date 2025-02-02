@@ -1,3 +1,9 @@
 body{
   background-color: #333333;
+  text-align: center
+}
+
+.pfp{
+  border-radius: 50px;
+  transition: transform 0.3s ease;
 }
