@@ -6,6 +6,18 @@ body{
   color: white;
 }
 
+h1{
+  color: white;
+}
+
+h2{
+  color: white;
+}
+
+p{
+  color: white;
+}
+
 .music{
   display: flex;
   flex-direction: column;
