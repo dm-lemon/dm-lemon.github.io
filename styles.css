@@ -20,6 +20,16 @@ p{
   text-align: center;
 }
 
+#mus1{
+  border-radius: 10px;
+  margin-left: 20px;
+}
+
+#mus2{
+  border-radius: 10px;
+  margin-right: 20px;
+}
+
 .pfp{
   height: 254px;
   width: 254px;
