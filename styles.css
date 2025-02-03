@@ -7,6 +7,15 @@ h1{
   color: white;
 }
 
+h2{
+  color: white;
+}
+
+.music{
+  display: flex;
+  flex-direction: column;
+}
+
 .pfp{
   height: 254px;
   width: 254px;
