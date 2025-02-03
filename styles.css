@@ -8,6 +8,8 @@ h1{
 }
 
 .pfp{
+  height: 254px;
+  width: 254px;
   border-radius: 127px;
   transition: transform 0.3s ease;
   transition: border-radius 0.3s ease;
